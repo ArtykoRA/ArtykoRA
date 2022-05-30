@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtykoRA
 - 👀 I’m interested in the universe and  everything in it.
-- 🌱 I’m currently learning Unity, html5, c#, ux, juggling, climb, and how to survive.
+- 🌱 I’m currently learning Unity, html5, c#, ux, juggling, climb, and how to survive being autonomous.
 - 💞️ I’m looking to collaborate on unexpected things.
 - 📫 How to reach me, its easy write to artyko@mail.com. 
 
